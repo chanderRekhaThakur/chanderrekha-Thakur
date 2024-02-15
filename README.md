@@ -1,4 +1,5 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](https://avatars.githubusercontent.com/u/134852525?v=4)
+https://avatars.githubusercontent.com/u/134852525?v=4
 <h1 align="center">Hi 👋, I'm Chander Rekha Thakur</h1>
 <h3 align="center">I’m interested in Data Analyst and Data Science</h3>
 
