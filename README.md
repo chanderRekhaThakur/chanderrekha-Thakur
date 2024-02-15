@@ -2,6 +2,6 @@
 - 👀 I’m interested in Data Analyst and Data Science
 - 🌱 I’m currently learning Data Analyst,Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ...linkedin.com/in/chanderrekha-thakur-788661150
+- 📫 How to reach me : linkedin.com/in/chanderrekha-thakur-788661150
 - 😄 Pronouns: sHe/Her
 - ⚡ Fun fact: "Data scientists have a favorite joke: Why did the data analyst break up with their spreadsheet? Because they found someone more 'Excel'-ent! 😄 #DataHumor"
